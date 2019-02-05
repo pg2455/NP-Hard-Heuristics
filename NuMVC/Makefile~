@@ -1,2 +1,0 @@
-numvc: numvc.cpp tsewf.h
-	g++ numvc.cpp -O3 -o numvc
